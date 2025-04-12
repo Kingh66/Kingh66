@@ -11,8 +11,7 @@
 
 ---
 
-## 🌱 I’m currently learning
-- ASP.NET  
+## 🌱 I’m currently learning 
 - React.js  
 - AWS Cloud Fundamentals  
 - Advanced SQL Optimization
