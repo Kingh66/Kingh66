@@ -20,8 +20,8 @@
 
 ## 💬 Ask me about
 - React  
-- Vue  
-- GSAP  
+- Mobile Development
+- Web Development  
 - Firebase  
 - UI/UX Design  
 
